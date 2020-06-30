@@ -9,7 +9,7 @@
     Game.py
 
     Created by Seungkyu Kim on Apr 30, 2016
-    Copyright © 2016 Seungky Kim. All rights reserved.
+    Copyright 2016 Seungky Kim. All rights reserved.
 
 '''
 
