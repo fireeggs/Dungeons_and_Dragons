@@ -1,5 +1,5 @@
 # Dungeons_and_Dragons
-
+Dungeons & Dragons is a fantasy tabletop role-playing game.
 ## Table of Contents
 
 ### 1. Basic Overview
