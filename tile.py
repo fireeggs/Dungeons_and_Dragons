@@ -15,7 +15,6 @@
 
 '''
 
-
 class Tile:
     '''Anything that takes up one square tile on the map.
     The default tile is empty space.'''
